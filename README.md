@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Html,css,javascript,java,mySQL**
 
-- 📫 How to reach me **shresthsingh1003@gmail.com/**
+- 📫 How to reach me **shresthsingh1003@gmail.com**
  
--  All My Project are available here **https://shresth1003.github.io**
+-  All My Project are available here **https://shresth1003.github.io/**
  
 - My Resume Link are available here **https://drive.google.com/file/d/1IEKSFon4cs1I8ghzyE3WfrBfT1Y0cIUz/view?usp=share_link**
  
